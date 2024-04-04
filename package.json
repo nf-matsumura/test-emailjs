@@ -10,8 +10,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.5.14",
     "@astrojs/check": "^0.5.10",
+    "@astrojs/react": "^3.1.1",
+    "@emailjs/browser": "^4.3.3",
+    "@types/react": "^18.2.74",
+    "@types/react-dom": "^18.2.23",
+    "astro": "^4.5.14",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "react-hook-form": "^7.51.2"
   }
 }
